@@ -24,3 +24,4 @@ insert into PS_MEMBER values('cat','1234');
 select * from ps_member;
 select count(*) from ps_member where ps_id='cat' and ps_pw='1234';
 
+show tables;
